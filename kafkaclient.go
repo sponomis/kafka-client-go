@@ -1,4 +1,4 @@
-package kafka
+package kafkaclient
 
 import "C"
 import (
